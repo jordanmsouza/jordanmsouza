@@ -10,7 +10,7 @@
 <br />
 <br />
 
-Olá, me chamo Jordan Marques, sou estudante de engenharia da computação e 
+Olá, me chamo Jordan Marques, um futuro engenheiro da computação e um tanto quanto curioso. Como diz o ditado popular, "Deus ajuda, quem cedo madruga", então bora codar.😅🤣
 
 **Linguagens e Ferramentas:**  
 
