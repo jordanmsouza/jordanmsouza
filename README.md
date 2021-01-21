@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+! [Estatísticas do github de Anurag] (https://github-readme-stats.vercel.app/api ? Username = jordanmsouza & count_private = true )
 <!--
 **jordanmsouza/jordanmsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
