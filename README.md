@@ -27,9 +27,9 @@ Me chamo Jordan Marques, brasileiro, futuro engenheiro da computação e um tant
 </a>
 <a href="https://github.com/jordanmsouza/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-long/?username=jordanmsouza&layout=compact&theme=material-palenight"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordanmsouza&layout=compact&theme=material-palenight"/>
 </a>
-<!--https://github-readme-stats.vercel.app/api/wakatime?username=willianrod -->
+<!--https://github-readme-stats.vercel.app/api/wakatime?username=willianrod
 **jordanmsouza/jordanmsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
